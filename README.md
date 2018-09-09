@@ -1,2 +1,3 @@
 # test
 test
+<iframe frameborder="0" allowtransparency="true" scrolling="no" src="https://money.yandex.ru/embed/donate.xml?account=410013864894090&quickpay=donate&payment-type-choice=on&mobile-payment-type-choice=on&default-sum=100&targets=%D0%9F%D0%98%D0%A1%D0%90%D0%A2%D0%AC+%D0%9F%D0%A0%D0%98%D0%9B%D0%9E%D0%96%D0%95%D0%9D%D0%98%D0%AF+%D0%94%D0%9E+%D0%9A%D0%9E%D0%9D%D0%A6%D0%90))&target-visibility=on&project-name=Mi+Homey+App&project-site=https%3A%2F%2Fgithub.com%2FMaxmudjon%2Fcom.maxmudjon.mihomey&button-text=05&successURL=https%3A%2F%2Fgithub.com%2FMaxmudjon%2Fcom.maxmudjon.mihomey" width="508" height="117"></iframe>
